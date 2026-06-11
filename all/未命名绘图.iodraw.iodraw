@@ -5,64 +5,64 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="L3Ir6xgAG3CRiQlDCzKR-2" value="在线图书管理系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1051" y="260" width="188" height="49" as="geometry" />
+          <mxGeometry x="1066" y="260" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="L3Ir6xgAG3CRiQlDCzKR-3" value="用户管理模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-47" y="359" width="156" height="49" as="geometry" />
+          <mxGeometry x="-36" y="270" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="L3Ir6xgAG3CRiQlDCzKR-4" value="图书管理模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="709" y="359" width="156" height="49" as="geometry" />
+          <mxGeometry x="663" y="280" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="L3Ir6xgAG3CRiQlDCzKR-5" value="借阅管理模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1443" y="359" width="156" height="49" as="geometry" />
+          <mxGeometry x="1501" y="290" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="L3Ir6xgAG3CRiQlDCzKR-6" value="统计查询模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2195" y="359" width="156" height="49" as="geometry" />
+          <mxGeometry x="2200" y="299" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="L3Ir6xgAG3CRiQlDCzKR-7" value="用户注册" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-300" y="457" width="124" height="49" as="geometry" />
+          <mxGeometry x="-300" y="309" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="L3Ir6xgAG3CRiQlDCzKR-8" value="用户登录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-126" y="457" width="124" height="49" as="geometry" />
+          <mxGeometry x="-160" y="319" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="L3Ir6xgAG3CRiQlDCzKR-9" value="个人信息修改" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="48" y="457" width="157" height="49" as="geometry" />
+          <mxGeometry x="103" y="329" width="157" height="49" as="geometry" />
         </mxCell>
         <mxCell id="L3Ir6xgAG3CRiQlDCzKR-10" value="密码重置" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="255" y="457" width="125" height="49" as="geometry" />
+          <mxGeometry x="259" y="339" width="125" height="49" as="geometry" />
         </mxCell>
         <mxCell id="L3Ir6xgAG3CRiQlDCzKR-11" value="图书入库" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="429" y="457" width="124" height="49" as="geometry" />
+          <mxGeometry x="399" y="349" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="L3Ir6xgAG3CRiQlDCzKR-12" value="图书信息修改" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="603" y="457" width="157" height="49" as="geometry" />
+          <mxGeometry x="522" y="359" width="157" height="49" as="geometry" />
         </mxCell>
         <mxCell id="L3Ir6xgAG3CRiQlDCzKR-13" value="图书删除/下架" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="810" y="457" width="164" height="49" as="geometry" />
+          <mxGeometry x="798" y="368" width="164" height="49" as="geometry" />
         </mxCell>
         <mxCell id="L3Ir6xgAG3CRiQlDCzKR-14" value="图书查询" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1024" y="457" width="124" height="49" as="geometry" />
+          <mxGeometry x="958" y="378" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="L3Ir6xgAG3CRiQlDCzKR-15" value="图书借阅" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1198" y="457" width="124" height="49" as="geometry" />
+          <mxGeometry x="1238" y="388" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="L3Ir6xgAG3CRiQlDCzKR-16" value="图书归还" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1372" y="457" width="124" height="49" as="geometry" />
+          <mxGeometry x="1378" y="398" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="L3Ir6xgAG3CRiQlDCzKR-17" value="借阅续期" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1546" y="457" width="124" height="49" as="geometry" />
+          <mxGeometry x="1657" y="408" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="L3Ir6xgAG3CRiQlDCzKR-18" value="罚款管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1720" y="457" width="124" height="49" as="geometry" />
+          <mxGeometry x="1797" y="418" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="L3Ir6xgAG3CRiQlDCzKR-19" value="个人借阅记录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1894" y="457" width="156" height="49" as="geometry" />
+          <mxGeometry x="1921" y="427" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="L3Ir6xgAG3CRiQlDCzKR-20" value="全馆借阅统计" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2100" y="457" width="156" height="49" as="geometry" />
+          <mxGeometry x="2061" y="437" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="L3Ir6xgAG3CRiQlDCzKR-21" value="超期统计" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2306" y="457" width="124" height="49" as="geometry" />
+          <mxGeometry x="2356" y="447" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="L3Ir6xgAG3CRiQlDCzKR-22" value="图书流通统计" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2480" y="457" width="156" height="49" as="geometry" />
