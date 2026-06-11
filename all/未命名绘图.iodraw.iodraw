@@ -14,7 +14,7 @@
           <mxGeometry x="1029" y="309" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="L3Ir6xgAG3CRiQlDCzKR-5" value="借阅管理模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1763" y="290" width="156" height="49" as="geometry" />
+          <mxGeometry x="1680" y="230" width="217" height="100" as="geometry" />
         </mxCell>
         <mxCell id="L3Ir6xgAG3CRiQlDCzKR-6" value="统计查询模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2515" y="309" width="156" height="49" as="geometry" />
