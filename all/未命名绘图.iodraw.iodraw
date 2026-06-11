@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="L3Ir6xgAG3CRiQlDCzKR-2" value="在线图书管理系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1400" y="90" width="280" height="100" as="geometry" />
+          <mxGeometry x="1374" y="90" width="280" height="100" as="geometry" />
         </mxCell>
         <mxCell id="L3Ir6xgAG3CRiQlDCzKR-3" value="用户管理模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="273" y="309" width="156" height="49" as="geometry" />
@@ -14,7 +14,7 @@
           <mxGeometry x="1029" y="309" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="L3Ir6xgAG3CRiQlDCzKR-5" value="借阅管理模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1763" y="309" width="156" height="49" as="geometry" />
+          <mxGeometry x="1763" y="290" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="L3Ir6xgAG3CRiQlDCzKR-6" value="统计查询模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2515" y="309" width="156" height="49" as="geometry" />
